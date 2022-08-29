@@ -1,2 +1,2 @@
-require './dentaku.rb'
+require './dentaku'
 run Sinatra::Application
